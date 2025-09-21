@@ -1,2 +1,5 @@
-# Web_Development
-This repo carry all code make during Web Development
+## Frontend
+- [Introduction] (frontent.md)
+
+## HTML Notes
+- [HTML Basics](html/01_basic.md)
