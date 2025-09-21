@@ -28,7 +28,7 @@ There are two types of tags
 2. Self-closing Tags 
     - Do not need a separate closing tag.
     - Usually used for elements that don’t wrap content.
-    - Examples: <img />, <br />, <hr />, <input />.
+    - Examples: `<img />`, `<br />`, `<hr />`, `<input />`.
 
 ## Elements
 
